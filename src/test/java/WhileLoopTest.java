@@ -34,7 +34,7 @@ public class WhileLoopTest {
         Assert.assertEquals(expected, actual);
     }
     /**
-     * A while loop summing all numbers between 0 and 6 exclusive should result in an expected value of 3.
+     * A while loop summing all numbers between 0 and 6 exclusive should result in an expected value of 6.
      * 0+1+2+3+4+5 = 15
      */
     @Test
