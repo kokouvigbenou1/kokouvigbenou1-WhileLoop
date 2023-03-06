@@ -41,7 +41,6 @@ public class Lab {
             sum += i;
             i++;
         }
-
         return sum;
     }
 }
